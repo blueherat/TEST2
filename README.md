@@ -4,5 +4,5 @@
 
  -feature-A
  -fix-A
- -asdjk-C
+ -feature-C
 
